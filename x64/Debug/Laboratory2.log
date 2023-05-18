@@ -1,0 +1,6 @@
+﻿  Laboratory2.cpp
+F:\CApplication\Laboratory2\Laboratory2.cpp(33,32): warning C4101: t: неиспользованная локальная переменная
+F:\CApplication\Laboratory2\Laboratory2.cpp(244,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CApplication\Laboratory2\Laboratory2.cpp(256,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\CApplication\Laboratory2\Laboratory2.cpp(239,23): warning C4101: end: неиспользованная локальная переменная
+  Laboratory2.vcxproj -> F:\CApplication\Laboratory2\x64\Debug\Laboratory2.exe
